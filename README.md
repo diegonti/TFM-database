@@ -1,2 +1,2 @@
 # TFM-database
-Database for the extra information of my Master's thesis work, "Tuning MXenes towards their Use in Photocatalytic Water Splitting".
+Database for the extra information of my Master's thesis work, "Tuning MXenes towards their Use in Photocatalytic Water Splitting". Here, you will find the complete database utilized for the Machine Learning (ML) models, as well as additional data that could not be accommodated within the confines of the report.
