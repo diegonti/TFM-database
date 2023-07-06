@@ -16,7 +16,7 @@ The $\Delta E$ plots can be found in the `Energy/` folder, where they are classi
 
 ## Density of States
 
-The PBE and PBE0 DOS plots are gathered in the `DOS/` folder, classified by termination and structure.
+The PBE and PBE0 projected DOS plots are gathered in the `DOS/` folder, classified by termination and structure. In each plot the energyes have been corrected with the Fermi level.
 
 <br><br>
 For any doubts or help, contact [Diego Ontiveros](https://github.com/diegonti) ([Mail](mailto:diegonti.doc@gmail.com)).
